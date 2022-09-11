@@ -2,8 +2,8 @@
 
 ## Technologies
 
--**React**
--**Mapbox gl**
--**React map gl**
--**Sweeet alert**
--**Bootstrap**
+- **React**
+- **Mapbox gl**
+- **React map gl**
+- **Sweeet alert**
+- **Bootstrap**
