@@ -1,0 +1,37 @@
+.map{
+    width: 800px;
+    height: 350px;
+    border-bottom: solid 4px #000000;
+}
+
+/* .mapboxgl-map{
+    width: 800px;
+    height: 350px;
+}
+
+.mapboxgl-canvas-container{
+    width: 800px;
+    height: 350px;
+}
+
+.mapboxgl-canvas{
+    width: 800px;
+    height: 350px;
+    border-bottom: solid 4px #000000;
+} */
+
+.mapboxgl-control-container{
+    visibility: hidden;
+}
+
+.mapboxgl-ctrl-bottom-right{
+    visibility: hidden;
+}
+
+path{
+    fill: #ff3232;
+}
+
+circle{
+    fill: #ffffff;
+}

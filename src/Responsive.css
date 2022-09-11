@@ -1,0 +1,39 @@
+@media only screen and (min-width:768px) and (max-width:992px){
+
+    .title{
+        font-size: 50px;
+      }
+      
+    .map{
+        width: 700px;
+        height: 350px;
+    } 
+  }
+  
+  @media only screen and (min-width:600px) and (max-width:768px){
+  
+      .title{
+          font-size: 40px;
+        }
+        
+      .map{
+          width: 550px;
+          height: 250px;
+      } 
+  }
+  
+  @media only screen and (min-width:360px) and (max-width:600px){
+  
+      .title{
+          font-size: 40px;
+        }
+        
+      .map{
+          width: 350px;
+          height: 200px;
+      }
+  
+      .lat-lng{
+          font-size: 15px;
+        }
+  }
