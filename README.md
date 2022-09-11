@@ -10,4 +10,4 @@
 
 ## Some points about the project
 
-- This project is created with **react** and **class components** and **Lifecycle** .
+- This project is created with **React** and **Class components** and **Lifecycle** .
