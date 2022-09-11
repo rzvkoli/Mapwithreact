@@ -18,3 +18,6 @@
 ## Preview
 
 ### Desktop Mode
+![00](https://user-images.githubusercontent.com/100797809/189514927-ee2bbd08-6514-41cc-8b60-1724a8ac96ba.png)
+
+![01](https://user-images.githubusercontent.com/100797809/189514920-d0adfa5e-189a-4648-a0d5-99d97cd898f6.png)
