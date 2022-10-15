@@ -5,7 +5,7 @@
 - **React**
 - **Mapbox gl**
 - **React map gl**
-- **Sweeet alert**
+- **Sweet alert**
 - **Bootstrap**
 
 ## Some points about the project
